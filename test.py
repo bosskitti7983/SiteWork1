@@ -2,5 +2,5 @@ import math
 
 math.sqrt(990)
 
-math.sqrt(1850)
+math.sqrt(1050)
 
