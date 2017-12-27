@@ -1,4 +1,4 @@
 import math
 
-math.sqrt(99000)
+math.sqrt(990)
 
