@@ -1,3 +1,4 @@
 import math
 
-math.sqrt(30)
+math.sqrt(60)
+math.sqrt(900)
